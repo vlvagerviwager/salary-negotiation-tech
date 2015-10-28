@@ -1,15 +1,15 @@
 # Salary Negotiation in Tech
-Articles and posts on salary negotiation for devs/nerds/software engineers/tech people. I did not write any of the below content, I am merely sharing it.
+Articles and posts on salary negotiation for devs/nerds/software engineers/tech people. I did not write and claim no ownership of the below content, I am merely sharing it.
 
-* https://blog.growth.supply/why-other-tech-talent-gets-paid-more-than-you-eac74808f3c8 
+* Why Other Tech Talent Gets Paid More Than You https://blog.growth.supply/why-other-tech-talent-gets-paid-more-than-you-eac74808f3c8 
 
-* http://www.mgadams.com/2015/06/30/the-software-engineers-guide-to-negotiating-a-raise/ 
+* The Software Engineer’s Guide to Negotiating a Raise http://www.mgadams.com/2015/06/30/the-software-engineers-guide-to-negotiating-a-raise/ 
 
-* http://www.kalzumeus.com/2012/01/23/salary-negotiation/
+* Salary Negotiation: Make More Money, Be More Valued http://www.kalzumeus.com/2012/01/23/salary-negotiation/
 
-* https://news.ycombinator.com/item?id=8908301
+* Salary negotiations for techies (2011) - HN comments https://news.ycombinator.com/item?id=8908301
 
-* By a guest on Pastebin (original post was deleted):
+##### By a guest on Pastebin (original post was deleted):
 
 Advice for those seeking salary increases
 
@@ -29,7 +29,7 @@ So, I have been promoted into the managerial ranks, in charge of a large dev tea
 
 5. The highest paid people on the team, are the most "liked" / perceived highest value AND are the most aggressive in asking for raises.  I'd put it as about equal factors.  So,  your salary = LIKEFACTOR * ASKFACTOR.  Be liked, and ask if you feel you need to.
 
-* By a guest on Pastebin (http://pastebin.com/eBetxc1Q) - text below in case it gets deleted:
+##### By a guest on Pastebin (http://pastebin.com/eBetxc1Q) - text below in case it gets deleted:
 
 Totally Honest Software Engineering Negotiations
 
