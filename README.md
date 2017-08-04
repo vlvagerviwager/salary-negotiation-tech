@@ -6,7 +6,7 @@ Articles and posts on salary negotiation for devs/nerds/software engineers/tech 
 What | URL
 ---|---
 PayScale Salary Negotiation Guide | http://www.payscale.com/salary-negotiation-guide
-We only hire the trendiest | http://danluu.com/programmer-moneybal/l
+We only hire the trendiest | http://danluu.com/programmer-moneyball
 Why Other Tech Talent Gets Paid More Than You | https://blog.growth.supply/why-other-tech-talent-gets-paid-more-than-you-eac74808f3c8 
 The Software Engineer’s Guide to Negotiating a Raise | http://www.mgadams.com/2015/06/30/the-software-engineers-guide-to-negotiating-a-raise/ 
 Salary Negotiation: Make More Money, Be More Valued | http://www.kalzumeus.com/2012/01/23/salary-negotiation/
