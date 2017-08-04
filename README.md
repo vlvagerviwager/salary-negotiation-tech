@@ -18,7 +18,7 @@ What | URL
 ---|---
 Never accept a counter-offer - HN | https://news.ycombinator.com/item?id=12624112
 
-##### By a guest on Pastebin (original post was deleted):
+### By a guest on Pastebin (original post was deleted):
 
 Advice for those seeking salary increases
 
