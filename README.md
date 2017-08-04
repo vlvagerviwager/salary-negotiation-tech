@@ -1,15 +1,22 @@
 # Salary Negotiation in Tech
 Articles and posts on salary negotiation for devs/nerds/software engineers/tech people. I did not write and claim no ownership of the below content, I am merely sharing it.
 
-* We only hire the trendiest http://danluu.com/programmer-moneybal/l
+## Salary negotation
 
-* Why Other Tech Talent Gets Paid More Than You https://blog.growth.supply/why-other-tech-talent-gets-paid-more-than-you-eac74808f3c8 
+What | URL
+---|---
+PayScale Salary Negotiation Guide | http://www.payscale.com/salary-negotiation-guide
+We only hire the trendiest | http://danluu.com/programmer-moneybal/l
+Why Other Tech Talent Gets Paid More Than You | https://blog.growth.supply/why-other-tech-talent-gets-paid-more-than-you-eac74808f3c8 
+The Software Engineer’s Guide to Negotiating a Raise | http://www.mgadams.com/2015/06/30/the-software-engineers-guide-to-negotiating-a-raise/ 
+Salary Negotiation: Make More Money, Be More Valued | http://www.kalzumeus.com/2012/01/23/salary-negotiation/
+Salary negotiations for techies (2011) - HN | https://news.ycombinator.com/item?id=8908301
 
-* The Software Engineer’s Guide to Negotiating a Raise http://www.mgadams.com/2015/06/30/the-software-engineers-guide-to-negotiating-a-raise/ 
+## Counteroffers
 
-* Salary Negotiation: Make More Money, Be More Valued http://www.kalzumeus.com/2012/01/23/salary-negotiation/
-
-* Salary negotiations for techies (2011) - HN comments https://news.ycombinator.com/item?id=8908301
+What | URL
+---|---
+Never accept a counter-offer - HN | https://news.ycombinator.com/item?id=12624112
 
 ##### By a guest on Pastebin (original post was deleted):
 
