@@ -7,7 +7,7 @@ What | URL
 ---|---
 PayScale Salary Negotiation Guide | http://www.payscale.com/salary-negotiation-guide
 We only hire the trendiest | http://danluu.com/programmer-moneyball
-Why Other Tech Talent Gets Paid More Than You | https://blog.growth.supply/why-other-tech-talent-gets-paid-more-than-you-eac74808f3c8 
+Why Other Tech Talent Gets Paid More Than You | https://medium.com/swlh/why-other-tech-talent-gets-paid-more-than-you-eac74808f3c8 
 The Software Engineer’s Guide to Negotiating a Raise | http://www.mgadams.com/2015/06/30/the-software-engineers-guide-to-negotiating-a-raise/ 
 Salary Negotiation: Make More Money, Be More Valued | http://www.kalzumeus.com/2012/01/23/salary-negotiation/
 Salary negotiations for techies (2011) - HN | https://news.ycombinator.com/item?id=8908301
