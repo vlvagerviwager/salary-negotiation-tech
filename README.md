@@ -1,16 +1,20 @@
 # Salary Negotiation in Tech
-Articles and posts on salary negotiation for devs/nerds/software engineers/tech people. I did not write and claim no ownership of the below content, I am merely sharing it.
+
+Articles and posts on salary negotiation for devs/software engineers/people working in tech. There are a variety of methods discussed, assess for your situation and use with caution (or abandon). 
+
+I did not write and claim no ownership of any linked content unless otherwise specified, I am merely sharing it.
 
 ## Salary negotation
 
 What | URL
 ---|---
 PayScale Salary Negotiation Guide | http://www.payscale.com/salary-negotiation-guide
+Salary negotiations for techies (2011) - HN | https://news.ycombinator.com/item?id=8908301
+Salary Negotiation: Make More Money, Be More Valued | http://www.kalzumeus.com/2012/01/23/salary-negotiation/
+5 Salary Negotiation Rules for Software Developers. Get +20% On Top of Your Market Rate | https://dev.to/aershov24/5-salary-negotiation-rules-for-software-developers-get-20-on-top-of-your-market-rate-2jii
+The Software Engineer’s Guide to Negotiating a Raise | http://www.mgadams.com/2015/06/30/the-software-engineers-guide-to-negotiating-a-raise/ 
 We only hire the trendiest | http://danluu.com/programmer-moneyball
 Why Other Tech Talent Gets Paid More Than You | https://medium.com/swlh/why-other-tech-talent-gets-paid-more-than-you-eac74808f3c8 
-The Software Engineer’s Guide to Negotiating a Raise | http://www.mgadams.com/2015/06/30/the-software-engineers-guide-to-negotiating-a-raise/ 
-Salary Negotiation: Make More Money, Be More Valued | http://www.kalzumeus.com/2012/01/23/salary-negotiation/
-Salary negotiations for techies (2011) - HN | https://news.ycombinator.com/item?id=8908301
 
 ## Counteroffers
 
@@ -79,3 +83,7 @@ So in summary, get some balls (and I mean this in the metaphorical sense, for th
 Don't give up and never settle. Always push yourself and ask for more! It never hurts to interview, and there's no harm in lying about salary. This is capitalism, and no matter how much your company "values" you, you will be fired in a nanosecond if push comes to shove and the company's survival is at risk. It is your responsibility to get what you are owed.
 
 ~ I hope this helps ~
+
+## Contribution guide
+
+Contributions via PRs and [Issues](https://github.com/zky829/tech-interview-prep/issues) welcome. 
