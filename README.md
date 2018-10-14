@@ -1,6 +1,6 @@
 # Salary Negotiation in Tech
 
-Articles and posts on salary negotiation for devs/software engineers/people working in tech. There are a variety of methods discussed, assess for your situation and use with caution (or abandon). 
+Articles and posts on salary negotiation for devs/software engineers/people working in tech. There are a variety of methods discussed, assess for your situation and use with caution (or abandon). I have used multiple resources linked below with successful results, and since it's not something taught in college (or at least, not in Computer Science degree programmes in my country) or discussed widely in the open, I believe that everyone should get a chance to learn how to negotiate their salary.
 
 I did not write and claim no ownership of any linked content unless otherwise specified, I am merely sharing it.
 
