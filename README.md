@@ -27,7 +27,7 @@ What | URL
 ---|---
 Never accept a counter-offer - HN | https://news.ycombinator.com/item?id=12624112
 
-### By a guest account on Pastebin (original post was deleted):
+## By a guest account on Pastebin (original post was deleted):
 
 >Advice for those seeking salary increases
 >
@@ -47,7 +47,7 @@ Never accept a counter-offer - HN | https://news.ycombinator.com/item?id=1262411
 >
 >5. The highest paid people on the team, are the most "liked" / perceived highest value AND are the most aggressive in asking for raises.  I'd put it as about equal factors.  So,  your salary = LIKEFACTOR * ASKFACTOR.  Be liked, and ask if you feel you need to.
 
-##### By a guest account on Pastebin (http://pastebin.com/eBetxc1Q) - text below in case it gets deleted:
+## By a guest account on Pastebin (http://pastebin.com/eBetxc1Q) - text below in case it gets deleted:
 
 >Totally Honest Software Engineering Negotiations
 >
