@@ -12,6 +12,7 @@ Disclaimer: I did not write and claim no ownership of the below content unless o
 
 What | URL
 ---|---
+questions to ask about compensation | https://twitter.com/b0rk/status/1230521845448945676?s=21 
 What Developers Are: Why an Unprofitable Company Can Have 70% Margins | https://dev.to/flaque/what-developers-are-why-an-unprofitable-company-can-have-70-margins-4jbg
 PayScale Salary Negotiation Guide | http://www.payscale.com/salary-negotiation-guide
 Salary negotiations for techies (2011) - HN | https://news.ycombinator.com/item?id=8908301
