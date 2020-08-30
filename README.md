@@ -1,14 +1,14 @@
 # Salary Negotiation in Tech
 
-Articles and posts on salary negotiation for devs/software engineers/people working in tech. 
+Articles and posts about **salary negotiation** for software developers/engineers, and people working in tech. 
 
 There are a variety of methods discussed, assess for your situation and use with caution (or abandon). 
 
-I have used multiple resources linked below with successful results, and since it's not something taught in college (or at least, not in Computer Science degree programmes in my country) or discussed widely in the open, I believe that everyone should get a chance to learn how to negotiate their salary.
+I have used multiple resources linked below with successful results, and since this is not a topic generally taught in formal education or discussed widely in the open, I compiled this to ensure that everyone gets a chance to learn how to negotiate their salary.
 
-Disclaimer: I did not write and claim no ownership of the below content unless otherwise specified, I am merely sharing it.
+_Disclaimer:_ I did not write and claim no ownership of the below content unless otherwise specified, I am merely sharing it.
 
-## Salary negotation
+## Salary Negotiation
 
 What | URL
 ---|---
@@ -22,7 +22,7 @@ The Software Engineer’s Guide to Negotiating a Raise | http://www.mgadams.com/
 We only hire the trendiest | http://danluu.com/programmer-moneyball
 Why Other Tech Talent Gets Paid More Than You | https://medium.com/swlh/why-other-tech-talent-gets-paid-more-than-you-eac74808f3c8 
 
-## Counteroffers
+## Counter-offers
 
 What | URL
 ---|---
@@ -90,6 +90,6 @@ Never accept a counter-offer - HN | https://news.ycombinator.com/item?id=1262411
 >
 >~ I hope this helps ~
 
-## Contribution guide
+## Contribution Guide
 
-Contributions via PRs and [Issues](https://github.com/zky829/tech-interview-prep/issues) welcome. 
+Contributions via pull requests welcome. Requests and questions via [Issues](https://github.com/zky829/tech-interview-prep/issues) also welcome. 
