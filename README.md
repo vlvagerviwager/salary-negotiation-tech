@@ -92,4 +92,4 @@ Never accept a counter-offer - HN | https://news.ycombinator.com/item?id=1262411
 
 ## Contribution Guide
 
-Contributions via pull requests welcome. Requests and questions via [Issues](https://github.com/zky829/tech-interview-prep/issues) also welcome. 
+Contributions via pull requests welcome. Requests and questions via [Issues](https://github.com/vlvagerviwager/tech-interview-prep/issues) also welcome. 
