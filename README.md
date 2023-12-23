@@ -12,6 +12,7 @@ _Disclaimer:_ I did not write and claim no ownership of the below content unless
 
 What | URL
 ---|---
+Salary calculator (Ireland): "reveal industry benchmarks for pay, compiled using data from thousands of placements over the past year." | https://www.morganmckinley.com/ie/salary-guide/calculator
 questions to ask about compensation | https://twitter.com/b0rk/status/1230521845448945676?s=21 
 What Developers Are: Why an Unprofitable Company Can Have 70% Margins | https://dev.to/flaque/what-developers-are-why-an-unprofitable-company-can-have-70-margins-4jbg
 PayScale Salary Negotiation Guide | http://www.payscale.com/salary-negotiation-guide
