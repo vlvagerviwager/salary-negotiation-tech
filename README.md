@@ -1,6 +1,6 @@
-# Salary Negotiation in Tech
+# Tips for Negotiating Your Salary in Tech
 
-Articles and posts about **salary negotiation** for software developers/engineers, and people working in tech. 
+Articles and posts about **salary negotiation** for software developers and people working in tech. 
 
 There are a variety of methods discussed, assess for your situation and use with caution (or abandon). 
 
@@ -22,6 +22,7 @@ Salary Negotiation: Make More Money, Be More Valued | http://www.kalzumeus.com/2
 The Software Engineer’s Guide to Negotiating a Raise | http://www.mgadams.com/2015/06/30/the-software-engineers-guide-to-negotiating-a-raise/ 
 We only hire the trendiest | http://danluu.com/programmer-moneyball
 Why Other Tech Talent Gets Paid More Than You | https://medium.com/swlh/why-other-tech-talent-gets-paid-more-than-you-eac74808f3c8 
+The tactical playbook for getting 20-40% more comp (without sounding greedy) - Jacob Warwick (Executive Negotiator) | https://www.lennysnewsletter.com/p/the-tactical-playbook-for-getting-more-comp
 
 ## Counter-offers
 
